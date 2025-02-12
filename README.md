@@ -1,6 +1,6 @@
 # Project - New Students
 
-This project is a simple Python application that automates the process of sending welcome emails to students who were approved in an entrance exam. The goal is to apply the concepts of the pyautogui library, which I learned in a tutorial video, to simulate sending automated emails.
+This project is a simple Python application that automates the process of sending welcome emails to students who were approved in an Technical Course Test. The goal is to apply the concepts of the pyautogui library, which I learned in a tutorial video, to simulate sending automated emails.
 
 The program simulates actions like opening a web browser, logging into Gmail, filling in the required fields, and sending a personalized email to each approved student. The data for this simulation is read from a CSV file, and the program interacts with the screen using pyautogui to automate the entire emailing process.
 
