@@ -1,4 +1,4 @@
-from approved import *
+from Program.approved import *
 
 if __name__ == "__main__":
     login_gmail()
